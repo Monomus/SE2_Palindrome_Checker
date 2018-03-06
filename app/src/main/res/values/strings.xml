@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SE2_Palindrome_Checker</string>
+    <string name="label.empty">No Input!</string>
+    <string name="label.toShort">The input must be at least 5 characters long!</string>
+    <string name="label.isPalindrome">Palindrome!</string>
+    <string name="label.notPalindrome">No Palindrome!</string>
 </resources>
